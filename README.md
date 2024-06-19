@@ -1,3 +1,3 @@
 # codedemo
-Auther : Neeraj
-this is demo project
+Auther : Neeraj ware
+this is demo project 
